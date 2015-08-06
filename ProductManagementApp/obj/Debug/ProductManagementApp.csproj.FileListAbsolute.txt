@@ -1,0 +1,33 @@
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.Properties.Resources.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.CategoryUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.LoginUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.MainMenuUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.MenuUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductEntryUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductReportUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductSaleUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.SaleReportUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.GenerateResource.Cache
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.exe.config
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.exe
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.exe
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Team Project\ProductManagementApp\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.csprojResolveAssemblyReference.cache
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.exe.config
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.exe
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.csprojResolveAssemblyReference.cache
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.Properties.Resources.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.CategoryUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.LoginUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.MainMenuUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductEntryUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductReportUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductSaleUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.SaleReportUI.resources
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.GenerateResource.Cache
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.exe
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Software Development(Faruk)\Product Management System\SQL\ProductManagementApp(SQL)\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.pdb
